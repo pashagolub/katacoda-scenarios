@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "golang"
+    "imageid": "golang:latest"
   }
 }
