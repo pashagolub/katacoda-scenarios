@@ -29,6 +29,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "golang:1.14"
+    "imageid": "node"
   }
 }
